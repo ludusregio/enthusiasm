@@ -1,2 +1,2 @@
 # enthusiasm
-Desire and passion
+Desire and passion are metrics of enthusiasm
